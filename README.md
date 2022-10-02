@@ -8,7 +8,7 @@
 
 **`Digital Craftsman (Developer/Creator)`** 
 <br/><br/>
-Hey,Currently I'm an working as Associate Software Engineer at Autviz Solution and want to be Open Source Developer  helping in development of Open Source Projects for the community. What motivates me for open source? I love to solve real world problems, and seeing millions of peoples are using my features.
+Hey,Currently I'm an working as Associate Software Engineer at Autviz Solution and want to be Open Source Developer  and help in development of Open Source Projects for the community. What motivates me for open source? I love to solve real world problems.
 
 
 <h1 align="center">
