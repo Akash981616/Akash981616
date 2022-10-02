@@ -1,4 +1,4 @@
-/*<img src="assets/header/headerImage.png" width="100%"/> */
+<img src="assets/header/headerImage.png" width="100%"/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=100&section=header"/>
@@ -75,9 +75,9 @@ currently_learning: ["Java, AWS and GCP"]
 ## 📈 GitHub Stats 
 
 <p align="center">
- <img width="200px"src="assets/header/lights.png">
+
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshergon&layout=compact&theme=radical&custom_title=Languages" /> 
- <img width="200px"src="assets/header/lights.png">
+ 
  <br>
  <br>
 
