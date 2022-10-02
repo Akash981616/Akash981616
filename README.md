@@ -1,4 +1,4 @@
-<img src="assets/header/headerImage.png" width="100%"/>
+/*<img src="assets/header/headerImage.png" width="100%"/> */
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=100&section=header"/>
@@ -80,7 +80,7 @@ currently_learning: ["Java, AWS and GCP"]
  <img width="200px"src="assets/header/lights.png">
  <br>
  <br>
- <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=arshergon&theme=redical">
+
  
 </p>
 <!-- platane/snk works, it just puts it on a new branch -->
