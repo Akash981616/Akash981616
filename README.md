@@ -16,10 +16,10 @@ Hey, I'm an Open Source Developer and content creator helping in development of 
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arshergon/">
+<a href="https://www.linkedin.com/in/arshergon/](https://www.linkedin.com/in/akash-kumar-9271551b8/)">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://www.instagram.com/arshergon/">
+<a href="https://www.instagram.com/its_.akash/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
@@ -27,13 +27,12 @@ Hey, I'm an Open Source Developer and content creator helping in development of 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Arsh Ali
-located_in: Dehradun, Uttarakhand
-current_job: Open Source Developer
+name: Akash Kumar
+located_in: Chandiagrh, India
+current_job:Associate Software Engineer
 education:
   [
     "Self-Taught Developer and Designer",
-    "Master's in Computer Applications",
     "Bachelor's in Computer Science",
   ]
 company: GitHub
@@ -46,7 +45,7 @@ fields_of_interests:
     "DevOps",
   ]
   
-currently_learning: ["Docker, Kubernetes and Carbon"]
+currently_learning: ["Java, AWS and GCP"]
 ```
   
 ---  ```
@@ -57,7 +56,6 @@ currently_learning: ["Docker, Kubernetes and Carbon"]
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -68,7 +66,6 @@ currently_learning: ["Docker, Kubernetes and Carbon"]
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
