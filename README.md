@@ -30,11 +30,8 @@ Hey,Currently I'm an working as Associate Software Engineer at Autviz Solutions 
 name: Akash Kumar
 located_in: Chandiagrh, India
 current_job:Associate Software Engineer
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Bachelor's in Computer Science",
-  ]
+education:  "Bachelor's in Computer Science",
+  
 company: GitHub
 
 fields_of_interests:
@@ -45,7 +42,6 @@ fields_of_interests:
     "DevOps",
   ]
   
-currently_learning: ["Spring Boot, AWS and GCP"]
 ```
   
 ---  ```
