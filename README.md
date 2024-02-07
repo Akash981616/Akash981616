@@ -6,7 +6,6 @@
 
 # 🏄‍♂️ Akash Kumar
 
-**`Autviz Solutions (Developer)`** 
 <br/><br/>
 
 <h1 align="center">
