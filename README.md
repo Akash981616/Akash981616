@@ -8,8 +8,6 @@
 
 **`Autviz Solutions (Developer)`** 
 <br/><br/>
-Hey,Currently I'm an working as Associate Software Engineer at Autviz Solutions and want to be Open Source Developer  and help in development of Open Source Projects for the community. What motivates me for open source? I love to solve real world problems.
-
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
